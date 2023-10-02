@@ -1,0 +1,612 @@
+[
+  {
+    "Name": "Toyota RAV4",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 6.1,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://gaadiwaadi.com/wp-content/uploads/2022/06/2023-Toyota-RAV4.jpg",
+    "Rent": 440
+  },
+  {
+    "Name": "BMW 3 Series",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 8.2,
+    "GearType": "Automatic",
+    "ModelYear": 2019,
+    "imgUrl": "https://www.topgear.com/sites/default/files/2022/09/2-BMW-3-Series.jpg",
+    "Rent": 350
+  },
+  {
+    "Name": "Volkswagen T-Cross",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 5.3,
+    "GearType": "Automatic",
+    "ModelYear": 2020,
+    "imgUrl": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/cms/uploads/jmmi0rihluys45svdhce",
+    "Rent": 400
+  },
+  {
+    "Name": "Honda Civic",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 6.1,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://qph.cf2.quoracdn.net/main-qimg-909e537fb58fe672a1bdb09bdd462fb1-lq",
+    "Rent": 440
+  },
+  {
+    "Name": "Cadillac Escalade",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 7.7,
+    "GearType": "Automatic",
+    "ModelYear": 2020,
+    "imgUrl": "https://www.indystar.com/gcdn/-mm-/c0d12b1e1b2bbfc96221edb0495989209f79a87d/c=54-348-2976-1998/local/-/media/Indianapolis/None/2014/09/23/1411488607000-2015-Cadillac-Escalade-ESV-003.jpg?width=1200&disable=upscale&format=pjpg&auto=webp",
+    "Rent": 620
+  },
+  {
+    "Name": "BMW 4 Series GTI",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 7.6,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1636372124/autoexpress/2021/11/BMW%204%20Series%20Gran%20Coupe%202021%20-3.jpg",
+    "Rent": 530
+  },
+  {
+    "Name": "BMW 4 Series",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 7.2,
+    "GearType": "Automatic",
+    "ModelYear": 2019,
+    "imgUrl": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/Galleries/20200603101949_p90390031.jpg&w=730&h=484&q=75&c=1",
+    "Rent": 490
+  },
+  {
+    "Name": "Toyota RAV4",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 6.1,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://gaadiwaadi.com/wp-content/uploads/2022/06/2023-Toyota-RAV4.jpg",
+    "Rent": 440
+  },
+  {
+    "Name": "BMW 3 Series",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 8.2,
+    "GearType": "Automatic",
+    "ModelYear": 2019,
+    "imgUrl": "https://www.topgear.com/sites/default/files/2022/09/2-BMW-3-Series.jpg",
+    "Rent": 350
+  },
+  {
+    "Name": "Volkswagen T-Cross",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 5.3,
+    "GearType": "Automatic",
+    "ModelYear": 2020,
+    "imgUrl": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/cms/uploads/jmmi0rihluys45svdhce",
+    "Rent": 400
+  },
+  {
+    "Name": "Honda Civic",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 6.1,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://qph.cf2.quoracdn.net/main-qimg-909e537fb58fe672a1bdb09bdd462fb1-lq",
+    "Rent": 440
+  },
+  {
+    "Name": "Cadillac Escalade",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 7.7,
+    "GearType": "Automatic",
+    "ModelYear": 2020,
+    "imgUrl": "https://www.indystar.com/gcdn/-mm-/c0d12b1e1b2bbfc96221edb0495989209f79a87d/c=54-348-2976-1998/local/-/media/Indianapolis/None/2014/09/23/1411488607000-2015-Cadillac-Escalade-ESV-003.jpg?width=1200&disable=upscale&format=pjpg&auto=webp",
+    "Rent": 620
+  },
+  {
+    "Name": "BMW 4 Series GTI",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 7.6,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1636372124/autoexpress/2021/11/BMW%204%20Series%20Gran%20Coupe%202021%20-3.jpg",
+    "Rent": 530
+  },
+  {
+    "Name": "BMW 4 Series",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 7.2,
+    "GearType": "Automatic",
+    "ModelYear": 2019,
+    "imgUrl": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/Galleries/20200603101949_p90390031.jpg&w=730&h=484&q=75&c=1",
+    "Rent": 490
+  },
+  {
+    "Name": "Toyota RAV4",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 6.1,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://gaadiwaadi.com/wp-content/uploads/2022/06/2023-Toyota-RAV4.jpg",
+    "Rent": 440
+  },
+  {
+    "Name": "BMW 3 Series",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 8.2,
+    "GearType": "Automatic",
+    "ModelYear": 2019,
+    "imgUrl": "https://www.topgear.com/sites/default/files/2022/09/2-BMW-3-Series.jpg",
+    "Rent": 350
+  },
+  {
+    "Name": "Volkswagen T-Cross",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 5.3,
+    "GearType": "Automatic",
+    "ModelYear": 2020,
+    "imgUrl": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/cms/uploads/jmmi0rihluys45svdhce",
+    "Rent": 400
+  },
+  {
+    "Name": "Honda Civic",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 6.1,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://qph.cf2.quoracdn.net/main-qimg-909e537fb58fe672a1bdb09bdd462fb1-lq",
+    "Rent": 440
+  },
+  {
+    "Name": "Cadillac Escalade",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 7.7,
+    "GearType": "Automatic",
+    "ModelYear": 2020,
+    "imgUrl": "https://www.indystar.com/gcdn/-mm-/c0d12b1e1b2bbfc96221edb0495989209f79a87d/c=54-348-2976-1998/local/-/media/Indianapolis/None/2014/09/23/1411488607000-2015-Cadillac-Escalade-ESV-003.jpg?width=1200&disable=upscale&format=pjpg&auto=webp",
+    "Rent": 620
+  },
+  {
+    "Name": "BMW 4 Series GTI",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 7.6,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1636372124/autoexpress/2021/11/BMW%204%20Series%20Gran%20Coupe%202021%20-3.jpg",
+    "Rent": 530
+  },
+  {
+    "Name": "BMW 4 Series",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 7.2,
+    "GearType": "Automatic",
+    "ModelYear": 2019,
+    "imgUrl": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/Galleries/20200603101949_p90390031.jpg&w=730&h=484&q=75&c=1",
+    "Rent": 490
+  },
+  {
+    "Name": "Toyota RAV4",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 6.1,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://gaadiwaadi.com/wp-content/uploads/2022/06/2023-Toyota-RAV4.jpg",
+    "Rent": 440
+  },
+  {
+    "Name": "BMW 3 Series",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 8.2,
+    "GearType": "Automatic",
+    "ModelYear": 2019,
+    "imgUrl": "https://www.topgear.com/sites/default/files/2022/09/2-BMW-3-Series.jpg",
+    "Rent": 350
+  },
+  {
+    "Name": "Volkswagen T-Cross",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 5.3,
+    "GearType": "Automatic",
+    "ModelYear": 2020,
+    "imgUrl": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/cms/uploads/jmmi0rihluys45svdhce",
+    "Rent": 400
+  },
+  {
+    "Name": "Honda Civic",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 6.1,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://qph.cf2.quoracdn.net/main-qimg-909e537fb58fe672a1bdb09bdd462fb1-lq",
+    "Rent": 440
+  },
+  {
+    "Name": "Cadillac Escalade",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 7.7,
+    "GearType": "Automatic",
+    "ModelYear": 2020,
+    "imgUrl": "https://www.indystar.com/gcdn/-mm-/c0d12b1e1b2bbfc96221edb0495989209f79a87d/c=54-348-2976-1998/local/-/media/Indianapolis/None/2014/09/23/1411488607000-2015-Cadillac-Escalade-ESV-003.jpg?width=1200&disable=upscale&format=pjpg&auto=webp",
+    "Rent": 620
+  },
+  {
+    "Name": "Toyota RAV4",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 6.1,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://gaadiwaadi.com/wp-content/uploads/2022/06/2023-Toyota-RAV4.jpg",
+    "Rent": 440
+  },
+  {
+    "Name": "BMW 3 Series",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 8.2,
+    "GearType": "Automatic",
+    "ModelYear": 2019,
+    "imgUrl": "https://www.topgear.com/sites/default/files/2022/09/2-BMW-3-Series.jpg",
+    "Rent": 350
+  },
+  {
+    "Name": "Volkswagen T-Cross",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 5.3,
+    "GearType": "Automatic",
+    "ModelYear": 2020,
+    "imgUrl": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/cms/uploads/jmmi0rihluys45svdhce",
+    "Rent": 400
+  },
+  {
+    "Name": "Honda Civic",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 6.1,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://qph.cf2.quoracdn.net/main-qimg-909e537fb58fe672a1bdb09bdd462fb1-lq",
+    "Rent": 440
+  },
+  {
+    "Name": "Cadillac Escalade",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 7.7,
+    "GearType": "Automatic",
+    "ModelYear": 2020,
+    "imgUrl": "https://www.indystar.com/gcdn/-mm-/c0d12b1e1b2bbfc96221edb0495989209f79a87d/c=54-348-2976-1998/local/-/media/Indianapolis/None/2014/09/23/1411488607000-2015-Cadillac-Escalade-ESV-003.jpg?width=1200&disable=upscale&format=pjpg&auto=webp",
+    "Rent": 620
+  },
+  {
+    "Name": "BMW 4 Series GTI",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 7.6,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1636372124/autoexpress/2021/11/BMW%204%20Series%20Gran%20Coupe%202021%20-3.jpg",
+    "Rent": 530
+  },
+  {
+    "Name": "BMW 4 Series",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 7.2,
+    "GearType": "Automatic",
+    "ModelYear": 2019,
+    "imgUrl": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/Galleries/20200603101949_p90390031.jpg&w=730&h=484&q=75&c=1",
+    "Rent": 490
+  },
+  {
+    "Name": "Toyota RAV4",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 6.1,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://gaadiwaadi.com/wp-content/uploads/2022/06/2023-Toyota-RAV4.jpg",
+    "Rent": 440
+  },
+  {
+    "Name": "BMW 3 Series",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 8.2,
+    "GearType": "Automatic",
+    "ModelYear": 2019,
+    "imgUrl": "https://www.topgear.com/sites/default/files/2022/09/2-BMW-3-Series.jpg",
+    "Rent": 350
+  },
+  {
+    "Name": "Volkswagen T-Cross",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 5.3,
+    "GearType": "Automatic",
+    "ModelYear": 2020,
+    "imgUrl": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/cms/uploads/jmmi0rihluys45svdhce",
+    "Rent": 400
+  },
+  {
+    "Name": "Honda Civic",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 6.1,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://qph.cf2.quoracdn.net/main-qimg-909e537fb58fe672a1bdb09bdd462fb1-lq",
+    "Rent": 440
+  },
+  {
+    "Name": "Cadillac Escalade",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 7.7,
+    "GearType": "Automatic",
+    "ModelYear": 2020,
+    "imgUrl": "https://www.indystar.com/gcdn/-mm-/c0d12b1e1b2bbfc96221edb0495989209f79a87d/c=54-348-2976-1998/local/-/media/Indianapolis/None/2014/09/23/1411488607000-2015-Cadillac-Escalade-ESV-003.jpg?width=1200&disable=upscale&format=pjpg&auto=webp",
+    "Rent": 620
+  },
+  {
+    "Name": "BMW 4 Series GTI",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 7.6,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1636372124/autoexpress/2021/11/BMW%204%20Series%20Gran%20Coupe%202021%20-3.jpg",
+    "Rent": 530
+  },
+  {
+    "Name": "BMW 4 Series",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 7.2,
+    "GearType": "Automatic",
+    "ModelYear": 2019,
+    "imgUrl": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/Galleries/20200603101949_p90390031.jpg&w=730&h=484&q=75&c=1",
+    "Rent": 490
+  },
+  {
+    "Name": "Toyota RAV4",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 6.1,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://gaadiwaadi.com/wp-content/uploads/2022/06/2023-Toyota-RAV4.jpg",
+    "Rent": 440
+  },
+  {
+    "Name": "BMW 3 Series",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 8.2,
+    "GearType": "Automatic",
+    "ModelYear": 2019,
+    "imgUrl": "https://www.topgear.com/sites/default/files/2022/09/2-BMW-3-Series.jpg",
+    "Rent": 350
+  },
+  {
+    "Name": "Volkswagen T-Cross",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 5.3,
+    "GearType": "Automatic",
+    "ModelYear": 2020,
+    "imgUrl": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/cms/uploads/jmmi0rihluys45svdhce",
+    "Rent": 400
+  },
+  {
+    "Name": "Honda Civic",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 6.1,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://qph.cf2.quoracdn.net/main-qimg-909e537fb58fe672a1bdb09bdd462fb1-lq",
+    "Rent": 440
+  },
+  {
+    "Name": "Cadillac Escalade",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 7.7,
+    "GearType": "Automatic",
+    "ModelYear": 2020,
+    "imgUrl": "https://www.indystar.com/gcdn/-mm-/c0d12b1e1b2bbfc96221edb0495989209f79a87d/c=54-348-2976-1998/local/-/media/Indianapolis/None/2014/09/23/1411488607000-2015-Cadillac-Escalade-ESV-003.jpg?width=1200&disable=upscale&format=pjpg&auto=webp",
+    "Rent": 620
+  },
+  {
+    "Name": "BMW 4 Series GTI",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 7.6,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1636372124/autoexpress/2021/11/BMW%204%20Series%20Gran%20Coupe%202021%20-3.jpg",
+    "Rent": 530
+  },
+  {
+    "Name": "BMW 4 Series",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 7.2,
+    "GearType": "Automatic",
+    "ModelYear": 2019,
+    "imgUrl": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/Galleries/20200603101949_p90390031.jpg&w=730&h=484&q=75&c=1",
+    "Rent": 490
+  },
+  {
+    "Name": "Toyota RAV4",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 6.1,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://gaadiwaadi.com/wp-content/uploads/2022/06/2023-Toyota-RAV4.jpg",
+    "Rent": 440
+  },
+  {
+    "Name": "BMW 3 Series",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 8.2,
+    "GearType": "Automatic",
+    "ModelYear": 2019,
+    "imgUrl": "https://www.topgear.com/sites/default/files/2022/09/2-BMW-3-Series.jpg",
+    "Rent": 350
+  },
+  {
+    "Name": "Volkswagen T-Cross",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 5.3,
+    "GearType": "Automatic",
+    "ModelYear": 2020,
+    "imgUrl": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/cms/uploads/jmmi0rihluys45svdhce",
+    "Rent": 400
+  },
+  {
+    "Name": "Honda Civic",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 6.1,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://qph.cf2.quoracdn.net/main-qimg-909e537fb58fe672a1bdb09bdd462fb1-lq",
+    "Rent": 440
+  },
+  {
+    "Name": "Cadillac Escalade",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 7.7,
+    "GearType": "Automatic",
+    "ModelYear": 2020,
+    "imgUrl": "https://www.indystar.com/gcdn/-mm-/c0d12b1e1b2bbfc96221edb0495989209f79a87d/c=54-348-2976-1998/local/-/media/Indianapolis/None/2014/09/23/1411488607000-2015-Cadillac-Escalade-ESV-003.jpg?width=1200&disable=upscale&format=pjpg&auto=webp",
+    "Rent": 620
+  },
+  {
+    "Name": "BMW 4 Series GTI",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 7.6,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1636372124/autoexpress/2021/11/BMW%204%20Series%20Gran%20Coupe%202021%20-3.jpg",
+    "Rent": 530
+  },
+  {
+    "Name": "BMW 4 Series",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 7.2,
+    "GearType": "Automatic",
+    "ModelYear": 2019,
+    "imgUrl": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/Galleries/20200603101949_p90390031.jpg&w=730&h=484&q=75&c=1",
+    "Rent": 490
+  },
+  {
+    "Name": "Toyota RAV4",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 6.1,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://gaadiwaadi.com/wp-content/uploads/2022/06/2023-Toyota-RAV4.jpg",
+    "Rent": 440
+  },
+  {
+    "Name": "BMW 3 Series",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 8.2,
+    "GearType": "Automatic",
+    "ModelYear": 2019,
+    "imgUrl": "https://www.topgear.com/sites/default/files/2022/09/2-BMW-3-Series.jpg",
+    "Rent": 350
+  },
+  {
+    "Name": "Volkswagen T-Cross",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 5.3,
+    "GearType": "Automatic",
+    "ModelYear": 2020,
+    "imgUrl": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/cms/uploads/jmmi0rihluys45svdhce",
+    "Rent": 400
+  },
+  {
+    "Name": "Honda Civic",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 6.1,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://qph.cf2.quoracdn.net/main-qimg-909e537fb58fe672a1bdb09bdd462fb1-lq",
+    "Rent": 440
+  },
+  {
+    "Name": "Cadillac Escalade",
+    "Seater": 4,
+    "Type": "Gasoline",
+    "Mileage": 7.7,
+    "GearType": "Automatic",
+    "ModelYear": 2020,
+    "imgUrl": "https://www.indystar.com/gcdn/-mm-/c0d12b1e1b2bbfc96221edb0495989209f79a87d/c=54-348-2976-1998/local/-/media/Indianapolis/None/2014/09/23/1411488607000-2015-Cadillac-Escalade-ESV-003.jpg?width=1200&disable=upscale&format=pjpg&auto=webp",
+    "Rent": 620
+  },
+  {
+    "Name": "BMW 4 Series GTI",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 7.6,
+    "GearType": "Automatic",
+    "ModelYear": 2021,
+    "imgUrl": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1636372124/autoexpress/2021/11/BMW%204%20Series%20Gran%20Coupe%202021%20-3.jpg",
+    "Rent": 530
+  },
+  {
+    "Name": "BMW 4 Series",
+    "Seater": 4,
+    "Type": "Hybrid",
+    "Mileage": 7.2,
+    "GearType": "Automatic",
+    "ModelYear": 2019,
+    "imgUrl": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/Galleries/20200603101949_p90390031.jpg&w=730&h=484&q=75&c=1",
+    "Rent": 490
+  }
+]
